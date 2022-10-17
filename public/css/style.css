@@ -1,0 +1,9 @@
+.wpspi-posts {
+  padding: 15px;
+}
+.wpspi-post {
+  border-left: 3px solid;
+  margin-bottom: 5px;
+  padding-left: 5px;
+  clear: both;
+}
